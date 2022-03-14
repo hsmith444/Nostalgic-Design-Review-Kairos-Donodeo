@@ -9,7 +9,7 @@ Html, body, div, h1, h2, h3, h4, p, url, li {
 	font-family: Georgia, Times, serif;
 	font-size: 2em;
 	color: #31708E;
-	text-shadow: 1px 1px 0 white;
+	text-shadow: 1px 1px 0 FFF6DA;
 	background: #8FC1E3;
 	border-radius: 5px 10px 5px 10px;
 	height: 40px;
@@ -17,7 +17,7 @@ Html, body, div, h1, h2, h3, h4, p, url, li {
 	padding: 2em 15px;
 	position: relative;
 	margin: 0 auto;
-	box-shadow: 2px 2px solid orange;
+	box-shadow: 2px 2px solid FFD39A;
 }
 body {
 	width: 896px;
@@ -30,11 +30,11 @@ body {
 .col1 {
 	width: 186px;
 	padding: 2em 0 40px 0;
-	background: lightblue;
-	border: 2px solid darkblue;
+	background: DCF1FF;
+	border: 2px solid 7CA4C0;
 	border-radius: 2px 8px;
 	font-family: Georgia, Times, serif;
-	color: orange;
+	color: FFD39A;
 	line-height: 1.2em;
 	float: left;
 	position: absolute;
@@ -53,13 +53,13 @@ footer {
 /* Home Page Settings, Page 1*/
 .col2home {
 	width: 690px;
-	background: lightyellow;
+	background: FFE79A;
 	margin-bottom: 20px;
 	font-family: Georgia, Times, serif;
-	color: blue;
+	color: 8FC0E3;
 	float: right;
 	padding: .5em;
-	border: 2px solid darkblue;
+	border: 2px solid 7CA4C0;
 	border-radius: 8px 2px;
 	}
 article {
@@ -67,7 +67,7 @@ article {
 }
 
 .firsthome {
-	color: blue;
+	color: 8FC0E3;
 	width: 65%;
 	height: 400px;
 	float: left;
@@ -75,15 +75,15 @@ article {
 	overflow: auto;
 }
 .secondhome {
-	color: blue;
+	color: 8FC0E3;
 	width: 30%;
 	float: right;
 	padding: .5em;
-	border: 1 px solid darkblue;
+	border: 1 px solid 7CA4C0;
 	overflow: auto;
 }
 /*aside {
-	color: blue;
+	color: 8FC0E3;
 	width: 144px;
 	font: 80%;
 }
@@ -102,20 +102,20 @@ article {
 	
 .col2pg2 {
 	width: 690px;
-	background: lightyellow;
+	background: FFE79A;
 	margin-bottom: 20px;
 	font-family: Georgia, Times, serif;
-	color: blue;
+	color: 8FC0E3;
 	float: right;
 	padding: .5em;
-	border: 2px solid darkblue;
+	border: 2px solid 7CA4C0;
 	}
 article {
 	padding-right: 1em;
 }
 
 .firstpg2 {
-	color: blue;
+	color: 8FC0E3;
 	width: 65%;
 	height: 400px;
 	float: left;
@@ -123,15 +123,15 @@ article {
 	overflow: auto;
 }
 .secondpg2 {
-	color: blue;
+	color: 8FC0E3;
 	width: 30%;
 	float: right;
 	padding: .5em;
-	border: 1 px solid darkblue;
+	border: 1 px solid 7CA4C0;
 	overflow: auto;
 }
 aside {
-	color: blue;
+	color: 8FC0E3;
 	width: 144px;
 	font: 80%;
 }
