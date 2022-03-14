@@ -1,0 +1,147 @@
+/*Global Settings*/
+
+Html, body, div, h1, h2, h3, h4, p, url, li {
+	Margin: 0;
+	Padding: 0;
+}
+
+.overall {
+	font-family: Georgia, Times, serif;
+	font-size: 2em;
+	color: #31708E;
+	text-shadow: 1px 1px 0 white;
+	background: #8FC1E3;
+	border-radius: 5px 10px 5px 10px;
+	height: 40px;
+	width: 896px;
+	padding: 2em 15px;
+	position: relative;
+	margin: 0 auto;
+	box-shadow: 2px 2px solid orange;
+}
+body {
+	width: 896px;
+	padding: 2 em 0;
+	font-family: Georgion, Times, serif;
+	position: relative;
+	margin: 0 auto;
+}
+
+.col1 {
+	width: 186px;
+	padding: 2em 0 40px 0;
+	background: lightblue;
+	border: 2px solid darkblue;
+	border-radius: 2px 8px;
+	font-family: Georgia, Times, serif;
+	color: orange;
+	line-height: 1.2em;
+	float: left;
+	position: absolute;
+	overflow: auto;
+	
+}
+footer {
+	clear: both;
+	width: 896px;
+	padding-top: 2em;
+	background: #8FC1E3;
+	font: helvetica;
+	color: #31708E;
+	
+	}
+/* Home Page Settings, Page 1*/
+.col2home {
+	width: 690px;
+	background: lightyellow;
+	margin-bottom: 20px;
+	font-family: Georgia, Times, serif;
+	color: blue;
+	float: right;
+	padding: .5em;
+	border: 2px solid darkblue;
+	border-radius: 8px 2px;
+	}
+article {
+	padding-right: 1em;
+}
+
+.firsthome {
+	color: blue;
+	width: 65%;
+	height: 400px;
+	float: left;
+	padding: .5em;
+	overflow: auto;
+}
+.secondhome {
+	color: blue;
+	width: 30%;
+	float: right;
+	padding: .5em;
+	border: 1 px solid darkblue;
+	overflow: auto;
+}
+/*aside {
+	color: blue;
+	width: 144px;
+	font: 80%;
+}
+
+.news1 {
+	float: left;
+	}
+	
+.news2 {
+	float: right;
+}*/
+	
+
+	
+	/*Page2 Styles*/
+	
+.col2pg2 {
+	width: 690px;
+	background: lightyellow;
+	margin-bottom: 20px;
+	font-family: Georgia, Times, serif;
+	color: blue;
+	float: right;
+	padding: .5em;
+	border: 2px solid darkblue;
+	}
+article {
+	padding-right: 1em;
+}
+
+.firstpg2 {
+	color: blue;
+	width: 65%;
+	height: 400px;
+	float: left;
+	padding: .5em;
+	overflow: auto;
+}
+.secondpg2 {
+	color: blue;
+	width: 30%;
+	float: right;
+	padding: .5em;
+	border: 1 px solid darkblue;
+	overflow: auto;
+}
+aside {
+	color: blue;
+	width: 144px;
+	font: 80%;
+}
+
+.news1pg2 {
+	float: left;
+	}
+	
+.news2pg2 {
+	float: right;
+}	
+	
+	
